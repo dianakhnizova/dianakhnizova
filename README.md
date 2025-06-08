@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi! My name is Diana! 🦈<br>I'm Frontend Developer 💻<br>
+Hi! My name is Diana! 🦈<br>I want to be a frontend developer 💻<br>
 
 
 ## 🌐 Socials:
