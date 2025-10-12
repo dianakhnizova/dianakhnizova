@@ -2,7 +2,9 @@
 # Hi! My name is Diana! 🦈<br>I want to be a frontend developer 💻<br>
 
 ## 📄 My CV: 
-[![Open CV](https://img.shields.io/badge/Open%20CV-FF0000?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](./cv.pdf)
+[![Open PDF](https://img.shields.io/badge/Open%20CV-FF0000?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](./cv.pdf)
+[![Open Online](https://img.shields.io/badge/View%20Online-0A66C2?style=for-the-badge&logo=netlify&logoColor=white)](https://cv-dianakhnizova.netlify.app/)
+
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/dianakhnizova) 
