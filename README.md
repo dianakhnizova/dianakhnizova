@@ -1,5 +1,5 @@
 
-# Hi! My name is Diana! 🦈<br>I want to be a frontend developer 💻<br>
+# Hi! My name is Diana! 🦈<br>I am a Junior 1 Frontend Developer 💻<br>
 
 ## 📄 My CV: 
 [![Open PDF](https://img.shields.io/badge/Open%20CV-FF0000?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](./cv.pdf)
